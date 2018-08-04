@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The MovieDB</string>
+    <string name="title">MovieName</string>
+    <string name="average">2.5/5.0</string>
+    <string name="api_key">ff29f617b45b36aab5aa78a6fa04677f</string>
+    <string name="overview">overview</string>
+    <string name="releaseDate">Release Date:</string>
+    <string name="video">Video:</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="movies">Movies</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
